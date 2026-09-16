@@ -1,0 +1,1 @@
+# Reconocimiento-de-D-gitos-Manuscritos-con-Redes-Neuronales-Convolutivas-CNN-
