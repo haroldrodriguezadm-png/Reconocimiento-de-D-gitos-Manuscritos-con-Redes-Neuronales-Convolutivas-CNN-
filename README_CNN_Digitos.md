@@ -43,8 +43,8 @@ Solo 10 errores sobre 360 imágenes de prueba, concentrados principalmente en el
 
 ```bash
 # Clonar el repositorio
-git clone <URL-de-tu-repo>
-cd <nombre-repo>
+git clone <https://github.com/haroldrodriguezadm-png/Reconocimiento-de-D-gitos-Manuscritos-con-Redes-Neuronales-Convolutivas-CNN-/blob/main/README_CNN_Digitos.md>
+cd <Reconocimiento-de-Digitos-Manuscritos-con-Redes-Neuronales-Convolutivas-CNN>
 
 # Instalar dependencias
 pip install tensorflow scikit-learn pandas numpy matplotlib seaborn openpyxl
@@ -74,4 +74,4 @@ El notebook espera el archivo de datos en la ruta indicada en la variable `archi
 
 ## 👤 Autor
 
-Tu nombre — [LinkedIn](https://linkedin.com/in/tu-usuario) · [Portafolio](https://tu-portafolio.com)
+Harold Rodríguez B. — [LinkedIn](https://www.linkedin.com/in/harold-rodriguez-boisset/) 
