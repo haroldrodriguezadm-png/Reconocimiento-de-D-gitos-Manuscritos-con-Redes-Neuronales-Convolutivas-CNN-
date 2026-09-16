@@ -1,1 +1,1 @@
-# Reconocimiento-de-D-gitos-Manuscritos-con-Redes-Neuronales-Convolutivas-CNN-
+# Reconocimiento-de-Digitos-Manuscritos-con-Redes-Neuronales-Convolutivas-CNN-
